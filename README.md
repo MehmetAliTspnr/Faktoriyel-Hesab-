@@ -1,1 +1,1 @@
-# Faktoriyel-Hesab-
+# Faktoriyel-Hesabı-c#
